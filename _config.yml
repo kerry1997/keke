@@ -1,10 +1,10 @@
 # Site settings
-title: BY Kerry
-SEOTitle: kerry的博客 | BY Kerry
+title: Kerry Mike
+SEOTitle: kerry的博客 | Kerry Mike
 header-img: img/post-bg-desk.jpg
 email: aicfskoi@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Kerry的博客, kerry, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, kerry Mike, Kerry的博客, kerry, 邱柏荧, iOS, Apple, iPhone"
 url: "https://kerry1997.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kerry1997/kerry1997.github.io.git" # you code repository
