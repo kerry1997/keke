@@ -19,7 +19,7 @@ header { width: 100%; margin: auto; border-bottom: #3c7a48 1px solid }
 #nav ul li { display: inline; margin: 0 12px; text-align: center; }
 #nav ul li a { color: #fff; }
 /* photowall */
-.photowall { width: 100%; background: #559664; padding: 30px 0; overflow: hidden; border-bottom: #226039 1px solid }
+.photowall { width: 100%; background: #0d8278; padding: 30px 0; overflow: hidden; border-bottom: #226039 1px solid }
 .photowall img { display: block; opacity: 0.9; -webkit-transition: opacity 0.35s; transition: opacity 0.35s; }
 .wall_a { width: 1000px; margin: auto; background: #fafcfa; overflow: hidden }
 .wall_a li { float: left; position: relative; }
