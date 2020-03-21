@@ -92,7 +92,7 @@ background-color:#FFFFFF;
 .about_girl span img, .about_boy span img { width: 130px; height: 130px; border-radius: 100% }
 .about_girl, .about_boy { width: 100%; margin:10px auto 0; overflow: hidden }
 .about_girl span { float: left; margin-right: 30px }
-.about_girl p { margin: 20px; background: #559664; color: #FFF; float: left; padding: 20px; width: 46%; border-radius: 6px; position: relative; box-shadow: inset #226039 -1px -1px 1px; text-shadow: #226039 1px 1px 0px }
+.about_girl p { margin: 20px; background: #0d8278; color: #FFF; float: left; padding: 20px; width: 46%; border-radius: 6px; position: relative; box-shadow: inset #226039 -1px -1px 1px; text-shadow: #226039 1px 1px 0px }
 .about_girl p::before { content: ""; width: 0px; height: 0px; border-style: solid; border-width: 20px 20px 20px 0; border-color: transparent #559664 transparent; position: absolute; left: -20px; top: 24px; }/* ������ */
 .about_boy span { float: right; margin-left: 30px }
 .about_boy p { margin: 20px; background: #ececec; color: #444; float: right; padding: 20px; width: 46%; border-radius: 6px; position: relative; box-shadow: inset #999 1px -1px 1px; text-shadow: #fff 1px 1px 0px }
