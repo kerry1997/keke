@@ -33,7 +33,7 @@ a{ color: #c40b00; }
     position: fixed;
     overflow: hidden;
     overflow-y: auto;
-    background: #C0C0C0;
+    /*background: #C0C0C0;*/
 }
 
 /* -- 头像 */
