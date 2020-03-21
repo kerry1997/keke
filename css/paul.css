@@ -33,7 +33,7 @@ a{ color: #c40b00; }
     position: fixed;
     overflow: hidden;
     overflow-y: auto;
-    background: images/ct/bj.jpg;
+    background: #C0C0C0;
 }
 
 /* -- 头像 */
@@ -59,7 +59,7 @@ a{ color: #c40b00; }
     display: flex;
     list-style: none;
     flex-direction: column;
-    background: images/ct/bj.jpg;
+    background: "images/ct/bj.jpg";
 }
 .sidebar .nav a{
     color: #fff;
