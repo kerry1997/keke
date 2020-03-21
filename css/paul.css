@@ -59,6 +59,7 @@ a{ color: #c40b00; }
     display: flex;
     list-style: none;
     flex-direction: column;
+    background: images/ct/bj.jpg;
 }
 .sidebar .nav a{
     color: #fff;
