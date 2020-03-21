@@ -13,7 +13,8 @@
 
 ---- */
 
-/* 0 - 全局
+/* 0 - 全局color: #c40b00;
+
 -------------------------------- */
 
 a{background: images/ct/bj.jpg; }
@@ -28,7 +29,6 @@ a{background: images/ct/bj.jpg; }
     top: 0;
     left: 0;
     bottom: 0;
-    color: #fff;
     width: 250px;
     position: fixed;
     overflow: hidden;
