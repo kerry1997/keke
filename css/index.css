@@ -23,7 +23,7 @@ header { width: 100%; margin: auto; border-bottom: #3c7a48 1px solid }
 .photowall img { display: block; opacity: 0.9; -webkit-transition: opacity 0.35s; transition: opacity 0.35s; }
 .wall_a { width: 1000px; margin: auto; background: #fafcfa; overflow: hidden }
 .wall_a li { float: left; position: relative; }
-.wall_a li p a { color: #686868 }
+.wall_a li p a { color: #0d8278 }
 .text_a { width: 220px; line-height: 24px; padding: 30px 20px }
 .text_b { width: 164px; line-height: 24px; padding: 40px 20px }
 .wall_a li figcaption { position: absolute; left: 0; top: 10px; }
