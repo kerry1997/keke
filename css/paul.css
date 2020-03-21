@@ -13,11 +13,10 @@
 
 ---- */
 
-/* 0 - 全局color: #c40b00;
-
+/* 0 - 全局
 -------------------------------- */
 
-a{background: images/ct/bj.jpg; }
+a{ color: #c40b00; }
 
 .wrap{ max-width: 1000px; }
 
@@ -29,11 +28,12 @@ a{background: images/ct/bj.jpg; }
     top: 0;
     left: 0;
     bottom: 0;
+    color: #fff;
     width: 250px;
     position: fixed;
     overflow: hidden;
     overflow-y: auto;
-
+    background: #4b4b4b;
 }
 
 /* -- 头像 */
@@ -59,7 +59,6 @@ a{background: images/ct/bj.jpg; }
     display: flex;
     list-style: none;
     flex-direction: column;
-
 }
 .sidebar .nav a{
     color: #fff;
@@ -69,7 +68,7 @@ a{background: images/ct/bj.jpg; }
     transition: background .3s, box-shadow .3s;
 }
 .sidebar .nav a:hover{
-      background: images/ct/bj.jpg: (0, 0, 0, .2);
+    background: rgba(0, 0, 0, .2);
 }
 
 main{
