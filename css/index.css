@@ -102,7 +102,7 @@ background-color:#FFFFFF;
 .blog figure{ background:#ececec; border:#FFF 10px solid; width:300px; height:430px; float:left;margin: 0 5px;}
 .blog figure img{ display:block; margin: 0 auto 20px}
 .blog figure p{ font-size:14px;  text-shadow: #fff 1px 1px 0px; line-height:26px; text-align:center; font-weight:bold}
-.blog figure p a{color:#226039;}
+.blog figure p a{color:#0d8278;}
 .blog figure figcaption{ padding:10px; line-height:22px; color:#666}
 /* hope */
 .text6 {font-family: "΢���ź�"; font-size: 30px; color: #FFF; -webkit-box-reflect: below 1px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(white)); width:1000px; margin:auto  }
