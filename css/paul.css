@@ -41,7 +41,7 @@ a{background: images/ct/bj.jpg; }
     width: 160px;
     height: 160px;
     margin: 2em auto;
-    background: #fff;
+    background: images/ct/bj.jpg;
     border-radius: 100%;
     border: #fff 5px solid;
     transition: transform 0.5s;
