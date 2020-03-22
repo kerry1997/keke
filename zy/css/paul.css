@@ -116,10 +116,10 @@ main section{
     }
 }
 
-#info{ background: url(../images/bg-1.png) fixed; }
+#info{ background: url(../zy/images/bg-1.png) fixed; }
 #skills{ background: #f8bd24; }
-#works{ background: url(../images/bg-2.png) fixed; }
-#team{ background: url(../images/bg-3.png) fixed; }
+#works{ background: url(../zy/images/bg-2.png) fixed; }
+#team{ background: url(../zy/images/bg-3.png) fixed; }
 
 .title{
     margin-bottom: 1em;
